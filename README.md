@@ -1,2 +1,14 @@
 # TikTok-account-creator-
-TIKTOK-ACCOUNT-CREATOR | FULL REQUESTS | MOBILE API 
+
+# FEATURES
+- Full requests - Proxy support 
+- no third party Apis 
+- Captcha solver
+- device registration 
+- All algorithms updated
+
+# TELEGRAM 
+(contact for paid version) 
+https://t.me/johnreal01
+
+
